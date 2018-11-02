@@ -3,11 +3,12 @@ The following table contains a list of primary contacts for discussing the impac
 | Component                     | Contact              |
 |-------------------------------|----------------------|
 | CFE (Common Front End)        | @kmillikin           |
-| Analyzer                      | @sigmundch           |
+| Analyzer                      | @stereotype441       |
 | VM                            | @a-siva, @mraleph    |
 | DDC (dart dev compiler)       | @vsmenon             |
-| dart2js                       | @johnniwinther       |
+| dart2js                       | @sigmundch           |
 | dartfmt                       | @munificent          |
 | dartfix                       | @danrubel            |
-| IntelliJ, grok                | @jwren               |
+| IntelliJ                      | @jwren               |
+| grok                          | @davidmorgan         |
 | dartdoc, dartpad              | @jcollins-g          |
