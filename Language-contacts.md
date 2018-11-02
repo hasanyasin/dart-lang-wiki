@@ -4,7 +4,7 @@ The following table contains a list of primary contacts for discussing the impac
 |-------------------------------|----------------------|
 | CFE (Common Front End)        | @kmillikin           |
 | Analyzer                      | @sigmundch           |
-| VM                            | @a-siva, @vegorov    |
+| VM                            | @a-siva, @mraleph    |
 | DDC (dart dev compiler)       | @vsmenon             |
 | dart2js                       | @johnniwinther       |
 | dartfmt                       | @munificent          |
